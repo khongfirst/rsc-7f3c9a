@@ -1,4 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9"
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/khongfirst/rsc-7f3c9a/releases/download/v12/package-12.apk",
+  "sha256": "bdea75b07d037d0f4a2dcb2f1b5783ab8d0012196beea620158c81fc104ee300"
 }
